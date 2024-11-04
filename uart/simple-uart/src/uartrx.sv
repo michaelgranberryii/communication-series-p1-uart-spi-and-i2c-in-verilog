@@ -1,3 +1,5 @@
+`timescale 1ns/1ps
+
 module uartrx
 #(
 parameter clk_freq = 1000000, //MHz

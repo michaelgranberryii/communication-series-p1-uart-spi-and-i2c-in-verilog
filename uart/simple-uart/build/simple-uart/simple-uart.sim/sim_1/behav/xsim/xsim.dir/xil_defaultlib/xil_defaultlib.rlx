@@ -1,0 +1,9 @@
+0.7
+2020.2
+May  7 2023
+15:10:42
+/home/mg/Documents/my-projects/communication-series-p1-uart-spi-and-i2c-in-verilog/uart/simple-uart/build/simple-uart/simple-uart.sim/sim_1/behav/xsim/glbl.v,1683266558,verilog,,,,glbl,,uvm,,,,,,
+/home/mg/Documents/my-projects/communication-series-p1-uart-spi-and-i2c-in-verilog/uart/simple-uart/sim/uart_tb.sv,1730651483,systemVerilog,,,,uart_tb,,uvm,,,,,,
+/home/mg/Documents/my-projects/communication-series-p1-uart-spi-and-i2c-in-verilog/uart/simple-uart/src/top.sv,1730651610,systemVerilog,,/home/mg/Documents/my-projects/communication-series-p1-uart-spi-and-i2c-in-verilog/uart/simple-uart/src/uartrx.sv,,uart_top,,uvm,,,,,,
+/home/mg/Documents/my-projects/communication-series-p1-uart-spi-and-i2c-in-verilog/uart/simple-uart/src/uartrx.sv,1730651620,systemVerilog,,/home/mg/Documents/my-projects/communication-series-p1-uart-spi-and-i2c-in-verilog/uart/simple-uart/src/uarttx.sv,,uartrx,,uvm,,,,,,
+/home/mg/Documents/my-projects/communication-series-p1-uart-spi-and-i2c-in-verilog/uart/simple-uart/src/uarttx.sv,1730651622,systemVerilog,,/home/mg/Documents/my-projects/communication-series-p1-uart-spi-and-i2c-in-verilog/uart/simple-uart/sim/uart_tb.sv,,uarttx,,uvm,,,,,,
