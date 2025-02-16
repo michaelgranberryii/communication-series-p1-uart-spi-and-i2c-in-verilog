@@ -1,8 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/mg/Documents/my-projects/communication-series-p1-uart-spi-and-i2c-in-verilog/uart/simple-uart/src/top.sv" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module uart_top
-INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/mg/Documents/my-projects/communication-series-p1-uart-spi-and-i2c-in-verilog/uart/simple-uart/src/uartrx.sv" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module uartrx
-INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/mg/Documents/my-projects/communication-series-p1-uart-spi-and-i2c-in-verilog/uart/simple-uart/src/uarttx.sv" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module uarttx
-INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/mg/Documents/my-projects/communication-series-p1-uart-spi-and-i2c-in-verilog/uart/simple-uart/sim/uart_tb.sv" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module uart_tb
