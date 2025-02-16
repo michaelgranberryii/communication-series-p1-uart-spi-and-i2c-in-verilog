@@ -1,4 +1,11 @@
-i2c/build
-spi/build
-uart/simple-uart/build
-uart/uart-16550/build
+i2c/build/*
+!i2c/build/.gitkeep
+
+spi/build/*
+!spi/build/.gitkeep
+
+uart/simple-uart/build/*
+!uart/simple-uart/build/.gitkeep
+
+uart/uart-16550/build/*
+!uart/uart-16550/build/.gitkeep
